@@ -1,3 +1,18 @@
+# College Assistant AI
+
+An AI-powered college assistant built using Python, Streamlit, and Groq LLM.
+
+# 🚀 Live Demo: https://college-assistance.onrender.com
+
+# Features
+
+1.AI-powered question answering
+2.Add Data functionality
+3.View Data functionality
+4.Interactive Streamlit interface
+
+
+
 # College Assistant
 
 A small Streamlit demo with two halves that share one live SQLite database:
